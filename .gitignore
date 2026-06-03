@@ -1,0 +1,15 @@
+## Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+binstar/
+obj/
+bin/
+
+## Visual Studio cache and configurations
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
